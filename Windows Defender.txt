@@ -1,7 +1,6 @@
-REM Author      : https://github.com/TheTeasel
+REM Author      : https://github.com/SubuM
 REM Description : Disable Windows Defender on Windows 10
-REM             : You may want to change the DELAY depending on the speed of the targeted machine
-REM             PLEASE DO NOT USE THIS SCRIPT FOR HARMFUL PURPOSES
+REM             : PLEASE DO NOT USE THIS SCRIPT FOR HARMFUL PURPOSES
 DELAY 500
 REM Minimize the USB drive folder
 ALT SPACE n
@@ -37,7 +36,5 @@ ALT SPACE c
 REM Close opened USB directory
 DELAY 300
 ALT TAB
-
 DELAY 500
 ALT SPACE c
-
