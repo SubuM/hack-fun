@@ -1,0 +1,96 @@
+REM Lock Me - Opens Notepad and types a message concerning locking the computer
+DELAY 200
+GUI r
+DELAY 200
+STRING notepad.exe
+ENTER
+DELAY 300
+ALT-SPACE x
+DELAY 200
+STRING                                 __
+ENTER
+STRING                       _ ,___,-'",-=-.
+ENTER
+STRING           __,-- _ _,-'_)_  (""`'-._\ `.
+ENTER
+STRING        _,'  __ |,' ,-' __)  ,-     /. |
+ENTER
+STRING      ,'_,--'   |     -'  _)/         `\
+ENTER
+STRING    ,','      ,'       ,-'_,`           :
+ENTER
+STRING    ,'     ,-'       ,(,-(              :
+ENTER
+STRING         ,'       ,-' ,    _            ;
+ENTER
+STRING        /        ,-._/`---'            /
+ENTER
+STRING       /        (____)(----. )       ,'
+ENTER
+STRING      /         (      `.__,     /\ /,
+ENTER
+STRING     :           ;-.___         /__\/|
+ENTER
+STRING     |         ,'      `--.      -,\ |
+ENTER
+STRING     :        /            \    .__/
+ENTER
+STRING      \      (__            \    |_
+ENTER
+STRING       \       ,`-, *       /   _|,\
+ENTER
+STRING        \    ,'   `-.     ,'_,-'    \
+ENTER
+STRING       (_\,-'    ,'\")--,'-'       __\
+ENTER
+STRING        \       /  // ,'|      ,--'  `-.
+ENTER
+STRING         `-.    `-/ \'  |   _,'         `.
+ENTER
+STRING            `-._ /      `--'/             \
+ENTER
+STRING               ,'           |              \
+ENTER
+STRING              /             |               \
+ENTER
+STRING           ,-'              |               /
+ENTER
+STRING          /                 |             -'
+ENTER
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+STRING I will learn to lock my computer.
+ENTER
+ENTER
+STRING There, just like Bart Simpson.
+ENTER
+ENTER
+STRING Please remember to lock your computer (Windows+L) when you step away from your seat.
+ENTER
+ENTER
+STRING Thank you.
+ENTER
+DELAY 100
+ALT TAB
+REM STRING x
+DELAY 200
+ALT SPACE c
+DELAY 50
+GUI l
